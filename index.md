@@ -1,7 +1,7 @@
 
 Je suis présentement étudiante à la maîtrise en mathématiques fondamentales à l'Université du Québec à Montréal sous la direction de [Franco Saliola](http://lacim.uqam.ca/~saliola/).
 
-##Objectifs de carrière
+## Objectifs de carrière
 Je souhaite enseigner les mathématiques au niveau collégial, pour partager mon enthousiasme vis-à-vis leurs multiples applications et contradictions, et aider les étudiants dans leur réussite.
 
 
@@ -11,5 +11,5 @@ Pour mes intérêts concernant des liens entre les mathématiques et d'autres do
 
 [**Currivulum Vitae**](À venir)
 
-##Contact
+## Contact
 **Courriel :** fmaasg@gmail.com
