@@ -10,3 +10,6 @@ Pour mes intérêts de recherche et mon projet de maîtrise, consulter l'onglet 
 Pour mes intérêts concernant des liens entre les mathématiques et d'autres domaines, consulter l'onglet Mathématiques interdisciplinaires. 
 
 [**Curriculum Vitae**](À venir)
+
+## Contacts
+<span class="email">Email: maas-gariepy.florence<span></span><span>@</span><span></span>courrier.uqam<span>.</span>ca</span><span class="border"> </span>
