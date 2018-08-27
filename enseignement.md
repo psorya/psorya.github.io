@@ -1,7 +1,7 @@
-# Activités d'enseignement
+## Activités d'enseignement
 
 
-## Tutorat
+### Tutorat
 
 Rencontres hebdomadaires avec des étudiants de niveau secondaire, collégial et universitaire, depuis 2009.
 Matières couvertes : 
@@ -9,7 +9,7 @@ Matières couvertes :
 - Physique (niveau secondaire et collégial) 
 
 
-## Auxilière d'enseignement et correctrice
+### Auxilière d'enseignement et correctrice
 
 **Correctrice et surveillante d'examen** pour le cours Calcul différentiel et intégral (MAT0341), à la session d'Automne 2017.
 - Correction de deux devoirs et de deux examens, en collaboration avec l'enseignante, Pauline Hubert.
