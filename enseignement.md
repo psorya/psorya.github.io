@@ -4,9 +4,7 @@
 ## Tutorat
 
 Rencontres hebdomadaires avec des étudiants de niveau secondaire, collégial et universitaire, depuis 2009.
-
 Matières couvertes : 
-
 - Mathématiques (niveau secondaire, collégial et universitaire)
 - Physique (niveau secondaire et collégial) 
 
