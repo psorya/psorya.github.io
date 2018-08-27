@@ -1,4 +1,4 @@
-Je suis présentement étudiante à la maîtrise en mathématiques fondamentales à l'UQAM sous la direction de Franco Saliola (LaCIM).
+Je suis présentement étudiante à la maîtrise en mathématiques fondamentales à l'[UQAM]() sous la direction de Franco Saliola (LaCIM).
 
 ### Contact
 
