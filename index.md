@@ -4,9 +4,12 @@ Je suis présentement étudiante à la maîtrise en mathématiques fondamentales
 ##Objectifs de carrière
 Je souhaite enseigner les mathématiques au niveau collégial, pour partager mon enthousiasme vis-à-vis leurs multiples applications et contradictions, et aider les étudiants dans leur réussite.
 
+
 Pour en apprendre davantage sur mes expériences d'enseignement et de vulgarisation scientifique, consulter l'onglet associé à gauche.
 Pour mes intérêts de recherche et mon projet de maîtrise, consulter l'onglet associé à gauche.
 Pour mes intérêts concernant des liens entre les mathématiques et d'autres domaines, consulter l'onglet Mathématiques interdisciplinaires. 
+
+[**Currivulum Vitae**](À venir)
 
 ##Contact
 **Courriel :** fmaasg@gmail.com
