@@ -9,4 +9,4 @@ Pour en apprendre davantage sur mes expériences d'enseignement et de vulgarisat
 Pour mes intérêts de recherche et mon projet de maîtrise, consulter l'onglet associé à gauche.
 Pour mes intérêts concernant des liens entre les mathématiques et d'autres domaines, consulter l'onglet Mathématiques interdisciplinaires. 
 
-[**Currivulum Vitae**](À venir)
+[**Curriculum Vitae**](À venir)
