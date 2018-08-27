@@ -1,10 +1,10 @@
-Je suis présentement étudiante à la maîtrise en mathématiques fondamentales à l'[UQAM]() sous la direction de Franco Saliola (LaCIM).
+Je suis présentement étudiante à la maîtrise en mathématiques fondamentales à l'[UQAM](https://uqam.ca/) sous la direction de Franco Saliola ([LaCIM](http://lacim.uqam.ca/)).
 
-### Contact
+**Contact**
 
 **Courriel :** fmaasg@gmail.com
 
-### Objectifs de carrière
+**Objectifs de carrière**
 
 Je souhaite enseigner les mathématiques au niveau collégial, pour partager mon enthousiasme vis-à-vis leurs multiples applications et contradictions, et aider les étudiants dans leur réussite.
 
@@ -27,28 +27,9 @@ Correction de deux devoirs et de deux examens, en collaboration avec l'enseignan
 **Auxilière d’enseignement** pour le cours Théorie des anneaux (MAT2260), à la session d'Hiver 2018.
 Préparation de solutions aux exercices et enseignement de celles-ci lors des périodes de travaux pratiques (deux heures par semaine).
 
-
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fmaasgariepy/fmaasgariepy.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
