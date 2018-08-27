@@ -1,15 +1,33 @@
-## Welcome to GitHub Pages
+Je suis présentement étudiante à la maîtrise en mathématiques fondamentales à l'UQAM sous la direction de Franco Saliola (LaCIM).
 
-You can use the [editor on GitHub](https://github.com/fmaasgariepy/fmaasgariepy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Contact
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Courriel :** fmaasg@gmail.com
 
-### Markdown
+### Objectifs de carrière
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Je souhaite enseigner les mathématiques au niveau collégial, pour partager mon enthousiasme vis-à-vis leurs multiples applications et contradictions, et aider les étudiants dans leur réussite.
 
-```markdown
-Syntax highlighted code block
+### Activités d'enseignement et de vulgarisation scientifique
+
+## Tutorat
+
+Rencontres hebdomadaires avec des étudiants de niveau secondaire, collégial et universitaire, depuis 2009.
+
+Matières couvertes : 
+
+- Mathématiques (niveau secondaire, collégial et universitaire)
+- Physique (niveau secondaire et collégial) 
+
+## Auxilière d'enseignement et correctrice
+
+**Correctrice et surveillante d'examen** pour le cours Calcul différentiel et intégral (MAT0341), à la session d'Automne 2017.
+Correction de deux devoirs et de deux examens, en collaboration avec l'enseignante, Pauline Hubert.
+
+**Auxilière d’enseignement** pour le cours Théorie des anneaux (MAT2260), à la session d'Hiver 2018.
+Préparation de solutions aux exercices et enseignement de celles-ci lors des périodes de travaux pratiques (deux heures par semaine).
+
+
 
 # Header 1
 ## Header 2
