@@ -11,5 +11,5 @@ Pour mes intérêts concernant des liens entre les mathématiques et d'autres do
 
 [**Curriculum Vitae**] (À venir)
 
-## Contacts
+## Contact
 <span class="email">Email: maas-gariepy.florence<span></span><span>@</span><span></span>courrier.uqam<span>.</span>ca</span><span class="border"> </span>
