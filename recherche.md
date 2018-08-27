@@ -6,7 +6,7 @@ Plus généralement, je m'intéresse aux approches combinatoires à différents 
 
 # Thèse de maîtrise
 
-**Titre : ** Une nouvelle approche combinatoire à la théorie de la représentation
+**Titre :** Une nouvelle approche combinatoire à la théorie de la représentation
 
 Mon projet de recherche porte sur la théorie de la représentation, sur les tableaux dominos et la structure de cristaux. 
 Initialement, j'étudierai des articles portant sur les tableaux dominos, ainsi que le livre de [Anne Schilling](https://www.math.ucdavis.edu/~anne/) portant sur les cristaux, *Crystal Bases*.
