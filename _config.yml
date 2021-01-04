@@ -1,3 +1,5 @@
 theme: jekyll-theme-midnight
 title: Patricia Sorya
+author: Patricia Sorya
 description: Étudiante à la maîtrise en mathématiques fondamentales à l'Université du Québec à Montréal (UQÀM)
+plugins: - jekyll-sitemap
