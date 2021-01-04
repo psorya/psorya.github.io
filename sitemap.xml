@@ -3,24 +3,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc> https://psorya.github.io/ </loc>
+    <loc>https://psorya.github.io/index.html</loc>
   </url>
 
   <url>
-    <loc> https://psorya.github.io/recherche.html </loc>
-    <priority> 0.8 </priority>
+    <loc>https://psorya.github.io/recherche.html</loc>
+    <priority>0.8</priority>
   </url>
 
   <url>
-    <loc> https://psorya.github.io/formation.html </loc>
+    <loc>https://psorya.github.io/formation.html</loc>
   </url>
 
   <url>
-    <loc> https://psorya.github.io/enseignement.html </loc>
+    <loc>https://psorya.github.io/enseignement.html</loc>
   </url>
 
   <url>
-    <loc> https://psorya.github.io/activites.html </loc>
+    <loc>https://psorya.github.io/activites.html</loc>
   </url>
   
 </urlset>
