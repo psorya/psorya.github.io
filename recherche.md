@@ -1,4 +1,4 @@
-<!-- * [Non-triangulation en dimension 4](files/PSorya-E8triangulation.pdf) -->
+* [Non-triangulation en dimension 4](files/PSorya-E8triangulation.pdf)
 * [Existence d'une structure *Spin<sup>c</sup>* en dimension 4](files/4manifoldsSpinc-PS.pdf)
 * [Introduction aux topos (théorie des catégories)](files/toposPresentation-PSorya.pdf)
 * [Théorème de Jordan-Schönflies](files/schonfliesPS.pdf)
