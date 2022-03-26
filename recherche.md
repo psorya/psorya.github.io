@@ -1,3 +1,4 @@
+* [Triangulation des variétés topologiques : de la topologie géométrique à l'homologie de Floer (Mémoire de maîtrise)](files/PSorya_Memoire_mars2022.pdf)
 * [Non-triangulation en dimension 4](files/PSorya-E8triangulation.pdf)
 * [Existence d'une structure *Spin<sup>c</sup>* en dimension 4](files/4manifoldsSpinc-PS.pdf)
 * [Introduction aux topos (théorie des catégories)](files/toposPresentation-PSorya.pdf)
