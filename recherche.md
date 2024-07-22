@@ -1,5 +1,5 @@
 * [Characterizing slopes for satellite knots](https://www.sciencedirect.com/science/article/pii/S0001870824002615) (Adv. Math., volume 450)
-* [Triangulation des variétés topologiques : de la topologie géométrique à l'homologie de Floer (Mémoire de maîtrise)](files/PSorya_Memoire_aout2022.pdf)
+* [Triangulation des variétés topologiques : de la topologie géométrique à l'homologie de Floer](files/PSorya_Memoire_aout2022.pdf) (Mémoire de maîtrise)
 * [Non-triangulation en dimension 4](files/PSorya-E8triangulation.pdf)
 * [Existence d'une structure *Spin<sup>c</sup>* en dimension 4](files/4manifoldsSpinc-PS.pdf)
 * [Introduction aux topos (théorie des catégories)](files/toposPresentation-PSorya.pdf)
