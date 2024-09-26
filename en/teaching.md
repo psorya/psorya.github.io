@@ -6,7 +6,7 @@ Mathematics
 * MAT 0339 (assistant) General mathematics (Summer 2020 UQAM)
 
 Optometry
-* OPM4801 Specialized clinical internship - Community clinic (2021-2023 UdeM)
-* SCV2152 Vision sciences: Ocular dioptrics (Fall 2020 UdeM)
-* OPM4701, OPM37011 General clinic (2017-2021 UdeM)
-* OPM6052 Advanced clinical optometry (Summer 2018 UdeM)
+* OPM 4801 Specialized clinical internship - Community clinic (2021-2023 UdeM)
+* SCV 2152 Vision sciences: Ocular dioptrics (Fall 2020 UdeM)
+* OPM 4701, OPM37011 Primary care clinical internship (2017-2021 UdeM)
+* OPM 6052 Advanced clinical optometry (Summer 2018 UdeM)
