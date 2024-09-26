@@ -1,8 +1,8 @@
 Mathématiques
-* MAT 2250 (Auxiliaire) Théorie des groupes (Automne 2020 UQÀM)
-* MAT 2400 (Auxiliaire) Géométries (Automne 2020 UQÀM)
-* MAT 0344 (Auxiliaire) Calcul intégral (Hiver 2019 UQÀM)
-* MAT 0339 (Auxiliaire) Mathématiques générales (Été 2020 UQÀM)
+* MAT 2250 (Auxiliaire) Théorie des groupes (Automne 2020 UQAM)
+* MAT 2400 (Auxiliaire) Géométries (Automne 2020 UQAM)
+* MAT 0344 (Auxiliaire) Calcul intégral (Hiver 2019 UQAM)
+* MAT 0339 (Auxiliaire) Mathématiques générales (Été 2020 UQAM)
 
 Optométrie
 * SCV 2152 Sciences de la vision: Dioptrique oculaire (Automne 2020 UdeM)
