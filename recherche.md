@@ -1,5 +1,5 @@
 Recherche
-* [Computation of the knot Floer complex of knots of thickness one](https://arxiv.org/abs/2505.13610)
+* [Computation of the knot Floer complex of knots of thickness one](https://arxiv.org/abs/2505.13610) (Exp. Math., sous presse)
 * [Effective bounds on characterising slopes for all knots](https://arxiv.org/abs/2410.24209) (en collaboration avec [Laura Wakelin](https://sites.google.com/view/laurawakelin)) (Trans. Amer. Math. Soc., sous presse)
 * [Characterizing slopes for satellite knots](https://www.sciencedirect.com/science/article/pii/S0001870824002615) (Adv. Math., volume 450)
 
