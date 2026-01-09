@@ -1,4 +1,5 @@
 Mathématiques
+* MAT 1362 Raisonnement mathématique et preuves (Hiver 2026 uOttawa)
 * MAT 2150 (Auxiliaire) Analyse II (Automne 2021 UQAM)
 * MAT 2250 (Auxiliaire) Théorie des groupes (Automne 2020 UQAM)
 * MAT 2400 (Auxiliaire) Géométries (Automne 2020 UQAM)
